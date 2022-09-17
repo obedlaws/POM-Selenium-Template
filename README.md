@@ -1,5 +1,4 @@
-# Page Object Model for Automation
-### /w Selenium
+# Page Object Model for Automation /w Selenium
 ## Templates/Examples so you can understand how it works
 
 
