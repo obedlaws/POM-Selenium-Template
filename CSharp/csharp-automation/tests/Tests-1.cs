@@ -26,7 +26,8 @@ public class Tests : DriverHelper
     [SetUp]
     public void Setup()
     {
-        
+        Driver.Navigate().GoToUrl(SITE);
+
     }
 
     [Test, Order(1)]

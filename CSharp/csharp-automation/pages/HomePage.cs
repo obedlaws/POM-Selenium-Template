@@ -25,7 +25,7 @@ public class HomePage : DriverHelper
     */
 
 	public string searchBarPath = "/html/body/ytd-app/div[1]/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/form/div[1]/div[1]/input";
-	string searchButtonPath = "//*[@id='search-icon-legacy']";
+	string searchButtonPath = "/html/body/ytd-app/div[1]/div/ytd-masthead/div[3]/div[2]/ytd-searchbox/button/yt-icon";
 
 
 	/* Selectors

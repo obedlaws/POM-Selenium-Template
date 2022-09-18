@@ -11,9 +11,8 @@ public class DriverHelper
     to initilize the Driver in every single file.
     */
 
-    ChromeOptions opts = new ChromeOptions();
-    opts.AddArgument("--headless", "--window-size=1920,1080");
-    IWebDriver Driver = new ChromeDriver(opts);
+
+    public ChromeDriver Driver = new ChromeDriver();
 
         
     
