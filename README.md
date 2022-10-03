@@ -2,7 +2,7 @@
 ## Templates/Examples so you can understand how it works
 
 
-In my journey changin my career from video production into the tech
+In my journey changing my career from video production into the tech
 and development world, I was given the opportunity to become a 
 QA Automation Engineer. So from that point onwards, i have decided to become
 better and gain skills in QA and also more in automation.
